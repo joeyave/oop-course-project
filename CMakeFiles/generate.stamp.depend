@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/CheckTypeSize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Compiler/MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.16/Modules/WriteBasicConfigVersionFile.cmake
+D:/course-project/CMakeFiles/3.16.4/CMakeCCompiler.cmake
+D:/course-project/CMakeFiles/3.16.4/CMakeCXXCompiler.cmake
+D:/course-project/CMakeFiles/3.16.4/CMakeRCCompiler.cmake
+D:/course-project/CMakeFiles/3.16.4/CMakeSystem.cmake
+D:/course-project/SFML-2.5.1/CMakeLists.txt
+D:/course-project/SFML-2.5.1/cmake/Config.cmake
+D:/course-project/SFML-2.5.1/cmake/SFMLConfig.cmake.in
+D:/course-project/SFML-2.5.1/cmake/SFMLConfigDependencies.cmake.in

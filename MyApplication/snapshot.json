@@ -1,0 +1,65 @@
+[
+    {
+        "fill color" : 
+        {
+            "a" : 255,
+            "b" : 255,
+            "g" : 0,
+            "r" : 0
+        },
+        "position" : 
+        {
+            "x" : 150.0,
+            "y" : 150.0
+        },
+        "scale" : 
+        {
+            "x" : 1.0,
+            "y" : 1.0
+        },
+        "shape id" : 8,
+        "type" : "rectangle"
+    },
+    {
+        "fill color" : 
+        {
+            "a" : 255,
+            "b" : 0,
+            "g" : 255,
+            "r" : 255
+        },
+        "position" : 
+        {
+            "x" : 200.0,
+            "y" : 1000.0
+        },
+        "scale" : 
+        {
+            "x" : 1.0,
+            "y" : 1.0
+        },
+        "shape id" : 9,
+        "type" : "ellipse"
+    },
+    {
+        "fill color" : 
+        {
+            "a" : 255,
+            "b" : 0,
+            "g" : 0,
+            "r" : 255
+        },
+        "position" : 
+        {
+            "x" : 1700.0,
+            "y" : 760.0
+        },
+        "scale" : 
+        {
+            "x" : 1.0,
+            "y" : 1.0
+        },
+        "shape id" : 10,
+        "type" : "circle"
+    }
+]

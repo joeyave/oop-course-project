@@ -1,0 +1,12 @@
+D:/course-project/CMakeFiles/INSTALL.dir
+D:/course-project/CMakeFiles/ALL_BUILD.dir
+D:/course-project/CMakeFiles/ZERO_CHECK.dir
+D:/course-project/src/SFML/CMakeFiles/INSTALL.dir
+D:/course-project/src/SFML/System/CMakeFiles/sfml-system.dir
+D:/course-project/src/SFML/System/CMakeFiles/INSTALL.dir
+D:/course-project/src/SFML/Main/CMakeFiles/sfml-main.dir
+D:/course-project/src/SFML/Main/CMakeFiles/INSTALL.dir
+D:/course-project/src/SFML/Window/CMakeFiles/sfml-window.dir
+D:/course-project/src/SFML/Window/CMakeFiles/INSTALL.dir
+D:/course-project/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+D:/course-project/src/SFML/Graphics/CMakeFiles/INSTALL.dir
